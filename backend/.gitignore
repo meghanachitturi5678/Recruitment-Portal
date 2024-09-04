@@ -1,0 +1,6 @@
+Applications/*
+node_modules
+.env
+*-lock.*
+.vscode
+data
